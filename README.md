@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <div align="center">
 
 
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=%20ChoiYoojin&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=%20HyungJunMin&fontSize=90)
 <br/>
 <br/>
 
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
-![Yoojin's GitHub stats](https://github-readme-stats.vercel.app/api?username=21dbwls12&show_icons=true&theme=highcontrast&hide=java,python,html)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=21dbwls12&layout=compact&theme=synthwave&hide=java,python,html)
+![Yoojin's GitHub stats](https://github-readme-stats.vercel.app/api?username=xax219&show_icons=true&theme=highcontrast&hide=java,python,html)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xax219&layout=compact&theme=synthwave&hide=java,python,html)
 
 
 
